@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'berkshelf','~> 2'
 gem 'thor-foodcritic'
+gem 'faraday', '~> 0.8.6'
 
 group :dev do
   gem 'travis', '~> 1.8.0'
