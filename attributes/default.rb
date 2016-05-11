@@ -1,1 +1,1 @@
-node['rs-monitoring']['monitoring_method'] = 'collectd'
+default['rs-monitoring']['monitoring_method'] = 'collectd'
