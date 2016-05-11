@@ -16,4 +16,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-include_recipe "rs-monitoring::#{node['rs-monitoring']['monitoring_method'}"
+include_recipe "rs-monitoring::#{node['rs-monitoring']['monitoring_method']}"
